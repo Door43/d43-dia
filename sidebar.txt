@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dia:home|Door43 (dia)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dia|d43-dia repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dia/archive/master.zip|d43-dia.zip]]
+
+**Recent Changes**
+{{changes>ns = dia}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dia|Ethnologue data]]
+
